@@ -25,5 +25,6 @@ print(2 in tuple) # To check list element of tuple is available or not
 print(len(tuple))
 
 tuple=(1,2,3)
-a,b,c = tuple #
+a,b,c = tuple #to interchange the value of tuple in new value
+
 print(a,b,c)
