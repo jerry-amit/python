@@ -26,3 +26,4 @@ print(jerry.name,jerry.salary,jerry.language)
 rohan =  Employee("amit",132500,"Javascript")
 print(rohan.name,rohan.salary,rohan.language)
 #Employee.getinfo(jerry)
+5
